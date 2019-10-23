@@ -1,0 +1,44 @@
+{
+    "posts" : [
+        {
+            "id": 1, 
+            "activity": "Get stunned by the Great Pyramid of Giza"
+        },
+        {
+            "id": 2, 
+            "activity": "Walk along the Great Wall of China"
+        },
+        {
+            "id": 3, 
+            "activity": "Explore Petra"
+        },
+        {
+            "id": 4, 
+            "activity": "Visit the Colosseum"
+        },
+        {
+            "id": 5, 
+            "activity": "Walk to Chichen Itza"
+        },
+        {
+            "id": 6, 
+            "activity": "Trek to Machu Picchu"
+        },
+        {
+            "id": 7, 
+            "activity": "Discover the Taj Mahal"
+        },
+        {
+            "id": 8, 
+            "activity": "Hike to Christ the Redeemer"
+        },
+        {
+            "id": 9, 
+            "activity": "Be intrigued by Stonehenge"
+        },
+        {
+            "id": 10, 
+            "activity": "Discover the Amazon Rainforest and River"
+        }
+    ]
+}
